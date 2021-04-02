@@ -11,7 +11,7 @@ The simple app attendance student system :
 ## Technology use
 - Codeigniter 4 
 - Jquery & Ajax
-- Bootstrap Css framwork
+- Bootstrap Css framework
 
 ## Library
 - Datatable
