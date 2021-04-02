@@ -5,6 +5,7 @@
 The simple app attendance student system :
 - Admin Account
 - Teacher Account
+- Student Management (grade, student, attendance, add teacher)
 - Analytics
 
 ## Technology use
@@ -12,7 +13,7 @@ The simple app attendance student system :
 - Jquery & Ajax
 - Bootstrap Css framwork
 
-## library
+## Library
 - Datatable
 - Monken Tables igniter (Datatable Serverside)
 - Sweet Alert 2 
